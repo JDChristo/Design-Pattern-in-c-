@@ -1,0 +1,13 @@
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.exe
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.deps.json
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.runtimeconfig.json
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.runtimeconfig.dev.json
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.dll
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\bin\Debug\netcoreapp3.1\Open-Closed Principle.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.csprojAssemblyReference.cache
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.AssemblyInfoInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.AssemblyInfo.cs
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.csproj.CoreCompileInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.dll
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\SOLIDS\2 Open-Closed Principle\Open-Closed PrincipleSol\Open-Closed Principle\obj\Debug\netcoreapp3.1\Open-Closed Principle.genruntimeconfig.cache
