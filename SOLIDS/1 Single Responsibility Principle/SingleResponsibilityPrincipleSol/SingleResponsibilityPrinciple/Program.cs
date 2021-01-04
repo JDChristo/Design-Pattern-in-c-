@@ -6,11 +6,15 @@ using System.Diagnostics;
 
 namespace SingleResponsibilityPrinciple
 {
-    // A typical class is responsible of one thing and has one reason to change
-    // Here Journal Class is responsible for only to modify Journal i.e, Add, Remove, Or Print the content
-    // Persistence Class is responsible to save file in the Dir
-    //Job to Modify Journal and to Save the File is distributed to Journal Class and Persistence Class
-    //Thus a single class is responsible for single thing
+    /* 
+     * A typical class is responsible of one thing and has one reason to change
+     * Here Journal Class is responsible for only to modify Journal i.e, Add, Remove, Or Print the content
+     * Persistence Class is responsible to save file in the Dir
+     * Job to Modify Journal and to Save the File is distributed to Journal Class and Persistence Class
+     * Thus a single class is responsible for single thing
+     */
+
+    // A CLASS SHOULD HAVE INDEPENDENT TASK
 
     public class Journal
     {
