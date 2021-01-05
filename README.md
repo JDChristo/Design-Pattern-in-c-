@@ -1,13 +1,13 @@
 # Design-Pattern-in-c#
 
-##SOLID Design Principles {#0100}
+##SOLID Design Principles
 1. Single Responsibility Principle
 2. Open-Closed Principle
 3. Liskov Substitution Principle
 4. Interface Segregation Principle
 5. Dependecy Inversion Principle
 
-##Creational Patterns {#0200}
+##Creational Patterns
 1. Builder
 2. Factories
 	- Factory Method
@@ -15,7 +15,7 @@
 3. Prototype
 4. Singleton
 
-##Structural Patterns {#0300}
+##Structural Patterns
 1. Adapter
 2. Bridge
 3. Composite
@@ -23,7 +23,7 @@
 5. Facade
 6. Proxy
 
-##Behavioral Patterns {#0400}
+##Behavioral Patterns
 1. Chain of Responsibility
 2. Command
 3. Interpreter
