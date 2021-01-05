@@ -1,0 +1,13 @@
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.exe
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.deps.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.runtimeconfig.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.runtimeconfig.dev.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\bin\Debug\netcoreapp3.1\FacetedBuilder.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.csprojAssemblyReference.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.AssemblyInfoInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.AssemblyInfo.cs
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.csproj.CoreCompileInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\1 Builder\Faceted Builder\FacetedBuilderSol\FacetedBuilder\obj\Debug\netcoreapp3.1\FacetedBuilder.genruntimeconfig.cache
