@@ -8,8 +8,8 @@
 5. Dependecy Inversion Principle
 
 ## Creational Patterns
-1. Builder
-2. Factories
+1. [Builder](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Builder#builder-design-pattern)
+2. [Factories](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/2%20Factories#factories-design-pattern)
 	- Factory Method
 	- Abstract Method
 3. Prototype
