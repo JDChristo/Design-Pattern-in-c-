@@ -1,11 +1,11 @@
 # Design-Pattern-in-c#
 
 ## SOLID Design Principles
-1. Single Responsibility Principle
-2. Open-Closed Principle
-3. Liskov Substitution Principle
-4. Interface Segregation Principle
-5. Dependecy Inversion Principle
+1. [Single Responsibility Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/1%20Single%20Responsibility%20Principle/Program.cs)
+2. [Open-Closed Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/2%20Open-Closed%20Principle/Program.cs)
+3. [Liskov Substitution Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/3%20Liskov%20Substitution%20Principle/Program.cs)
+4. [Interface Segregation Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/3%20Liskov%20Substitution%20Principle/Program.cs)
+5. [Dependecy Inversion Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/5%20Dependency%20inversion%20Principle/Program.cs)
 
 ## Creational Patterns
 1. [Builder](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Builder#builder-design-pattern)
