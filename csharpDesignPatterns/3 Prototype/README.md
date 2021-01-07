@@ -1,6 +1,6 @@
 # Prototype Design Pattern
-`A partially or fully initialized object that you clone and use the clone`
-`When it's easier to copy an existing object to fully initialize a new one`
+- `A partially or fully initialized object that you clone and use the clone`
+- `When it's easier to copy an existing object to fully initialize a new one`
 
 **Motivation**
 1. Complicated objects (e.g., cars) aren't designed from scratch
