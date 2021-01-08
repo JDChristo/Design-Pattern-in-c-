@@ -1,11 +1,11 @@
 # Design Patterns
-` **Note**- While these principles and patterns can apply to various programming languages, the sample code contained in this article will use C#`
+` While these principles and patterns can apply to various programming languages, the sample code contained in this article will use C#`
 
 ## Content
-1. [*SOLID Design Principles*](https://github.com/JDChristo/Design-Pattern-in-c-sharp#solid-design-principles)
-2. [Design Patterns in c# : Example](https://github.com/JDChristo/Design-Pattern-in-c-sharp#design-pattern-in-c-examples)
-3. [Game Programming Pattern : Case Study](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
-4. [Design Pattern in Unity](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
+1. [**SOLID Design Principles**](https://github.com/JDChristo/Design-Pattern-in-c-sharp#solid-design-principles)
+2. [**Design Patterns in c# : Example**](https://github.com/JDChristo/Design-Pattern-in-c-sharp#design-pattern-in-c-examples)
+3. [**Game Programming Pattern : Case Study**](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
+4. [**Design Pattern in Unity**](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
 
 
 ## SOLID Design Principles
