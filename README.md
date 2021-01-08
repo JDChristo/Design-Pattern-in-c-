@@ -1,5 +1,5 @@
 # Design Patterns
-` While these principles and patterns can apply to various programming languages, the sample code contained in this article will use C#`
+` While these principles and patterns can apply to various programming languages, the sample code contained in here will use C#`
 
 ## Content
 1. [**SOLID Design Principles**](https://github.com/JDChristo/Design-Pattern-in-c-sharp#solid-design-principles)
