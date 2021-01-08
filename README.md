@@ -1,7 +1,8 @@
-#Design Patterns
+# Design Patterns
+` **Note**- While these principles and patterns can apply to various programming languages, the sample code contained in this article will use C#`
 
-##Content
-1. [SOLID Design Principles](https://github.com/JDChristo/Design-Pattern-in-c-sharp#solid-design-principles)
+## Content
+1. [*SOLID Design Principles*](https://github.com/JDChristo/Design-Pattern-in-c-sharp#solid-design-principles)
 2. [Design Patterns in c# : Example](https://github.com/JDChristo/Design-Pattern-in-c-sharp#design-pattern-in-c-examples)
 3. [Game Programming Pattern : Case Study](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
 4. [Design Pattern in Unity](https://github.com/JDChristo/Design-Pattern-in-c-sharp#game-programming-pattern--case-study)
@@ -17,11 +18,11 @@
 ## Design Pattern in c#: Examples
 
 ### Creational Patterns
-1. [Builder](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Builder#builder-design-pattern)
-2. [Factories](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/2%20Factories#factories-design-pattern)
+1. [Builder](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Creational%20Patterns/1%20Builder#builder-design-pattern)
+2. [Factories](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Creational%20Patterns/2%20Factories#factories-design-pattern)
 	- Factory Method
 	- Abstract Method
-3. [Prototype](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/3%20Prototype#prototype-design-pattern)
+3. [Prototype](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Creational%20Patterns/3%20Prototype#prototype-design-pattern)
 4. Singleton
 
 ### Structural Patterns
