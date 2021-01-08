@@ -1,11 +1,11 @@
-# Design-Pattern-in-c#
-
-## SOLID Design Principles
+# SOLID Design Principles
 1. [Single Responsibility Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/1%20Single%20Responsibility%20Principle/Program.cs)
 2. [Open-Closed Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/2%20Open-Closed%20Principle/Program.cs)
 3. [Liskov Substitution Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/3%20Liskov%20Substitution%20Principle/Program.cs)
 4. [Interface Segregation Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/3%20Liskov%20Substitution%20Principle/Program.cs)
 5. [Dependecy Inversion Principle](https://github.com/JDChristo/Design-Pattern-in-c-sharp/blob/main/SOLIDS/5%20Dependency%20inversion%20Principle/Program.cs)
+
+# Design Pattern in c#: Examples
 
 ## Creational Patterns
 1. [Builder](https://github.com/JDChristo/Design-Pattern-in-c-sharp/tree/main/csharpDesignPatterns/1%20Builder#builder-design-pattern)
@@ -36,3 +36,37 @@
 10. Stretegy
 11. Template Method
 12. Visitor
+
+# Game Programming Pattern : Case Study
+
+## Design Patterns
+1. Command
+2. Flyweight
+3. Observer
+4. Prototype
+5. Singleton
+6. State
+
+## Sequencing Patterns
+1. Double buffer
+2. Game Loop
+3. Update Method
+
+## Behavioral Patterns
+1. ByteCode
+2. Subclass Sandbox
+3. Type Object
+
+## Decoupling Patterns
+1. Component
+2. Event Queue
+3. Service Locater
+
+## Optimization Patterns
+1. Data Locality
+2. Dirty Flag
+3. Object Pooling
+4. Spatial Partition
+
+# Design Pattern in UNITY : Examples
+
