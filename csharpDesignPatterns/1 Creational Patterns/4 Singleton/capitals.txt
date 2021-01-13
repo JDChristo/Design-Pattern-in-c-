@@ -1,0 +1,14 @@
+﻿Tokyo
+1230000
+New York
+2234500
+Delhi NCR
+5462000
+Moscow
+5549000
+London
+1652300
+Lahore
+5896320
+Dubai
+5599632
