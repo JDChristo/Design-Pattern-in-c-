@@ -1,0 +1,15 @@
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.exe
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.deps.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.runtimeconfig.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.runtimeconfig.dev.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\1 Adapter Patterns.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.csprojAssemblyReference.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.AssemblyInfoInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.AssemblyInfo.cs
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.csproj.CoreCompileInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.genruntimeconfig.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\bin\Debug\netcoreapp3.1\MoreLinq.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\1 Adapter Patterns\obj\Debug\netcoreapp3.1\1 Adapter Patterns.csproj.CopyComplete

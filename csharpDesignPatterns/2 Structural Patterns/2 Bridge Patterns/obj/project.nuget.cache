@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6JsLpYPAYz9cOqCLvwkU/ixnnkp1YGZtlthXe2Eqjci34VLohEhll/oR5fW9x0k6v8qCu9kLiw8Rc2yQ+vfAQ==",
+  "success": true,
+  "projectFilePath": "f:\\Work\\Degin\\Design-Pattern-in-c-#\\csharpDesignPatterns\\2 Structural Patterns\\2 Bridge Patterns\\2 Bridge Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JERRI._PC\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\JERRI._PC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

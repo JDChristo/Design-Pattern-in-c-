@@ -1,0 +1,13 @@
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.csprojAssemblyReference.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.AssemblyInfoInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.AssemblyInfo.cs
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.csproj.CoreCompileInputs.cache
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.exe
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.deps.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.runtimeconfig.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.runtimeconfig.dev.json
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\bin\Debug\netcoreapp3.1\2 Bridge Patterns.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.dll
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.pdb
+F:\Work\Degin\Design-Pattern-in-c-#\csharpDesignPatterns\2 Structural Patterns\2 Bridge Patterns\obj\Debug\netcoreapp3.1\2 Bridge Patterns.genruntimeconfig.cache

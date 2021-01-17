@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7syYn70fvo7fjQ+WZBjnW2Z/CDm9DP1h6Dt28pB55XaMZ4RP/5XieJqE+v1EZRSX9XG5SOHJz0m/+MNNwwWqA==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\Degin\\Design-Pattern-in-c-#\\csharpDesignPatterns\\2 Structural Patterns\\1 Adapter Patterns\\1 Adapter Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JERRI._PC\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
